@@ -1,0 +1,273 @@
+.br{
+    border-radius: 10px;
+}
+
+#custom-nav-link-color1{
+    color:   #7B3F00!important;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color2{
+    color: #7B3F00;
+    font-family: "Roboto";
+}
+
+
+#custom-nav-link-color3{
+    color: #7B3F00;
+    font-family: "Roboto";
+}
+
+#custom-nav-link-color4{
+    color: #7B3F00;
+    font-family: "Roboto";
+   
+}
+
+.food-logo{
+    width: 100px;
+    height: 70px;
+}
+#bg{
+    background-color: #FFFDD0!important;
+}
+.text-cen{
+    position: absolute;
+    text-align: left;
+    margin: 100px;
+}
+.banner-section-bg-container{
+    height: 90vh;
+    background-image: url("https://thumbs.dreamstime.com/b/elegant-vintage-french-cake-celebration-ai-created-content-design-background-instagram-facebook-wall-painting-325370747.jpg");
+    background-size: cover;
+}
+.banner-heading{
+    color: #FFFDD0;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.banner-para{
+    color: #FFFDD0;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 400;
+
+}
+
+.custom-button{
+    width: 120px;
+    height: 40px;
+    color: #FFFDD0;
+    background-color:  #7B3F00;
+    border: none; 
+    background-color: transparent;
+    border-color: #d0b200;
+    color: #d0b200;
+    border-radius: 8px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+.bor{
+    border-style: solid;
+}
+
+.custom-button1{
+    width: 120px;
+    height: 40px;
+    color: white;
+    background-color: transparent;
+    border-color: #d0b200;
+    color: #d0b200;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 8px;
+    text-decoration: none;
+}
+.why-choose-section{
+    background-color: #FFFDD0;
+}
+.single-card{
+    background-color: #FFFDD0;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    border-color:  #7B3F00;
+}
+.mt-3{
+    color: #d0b200;
+}
+.para{
+    color: #7B3F00 ;
+}
+.single-image{
+    height: 100px;
+    width: 90px;
+}
+.single-im{
+    height: 100px;
+    width: 180px;
+}
+
+.explore-menu-section{
+    background-color: #FFFDD0;
+}
+.menu-section-heading{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    color: #7B3F00 ;
+}
+.menu-item-image{
+    border-radius: 15px;
+}
+.shadow{
+    background-color:#7a3f00a0;
+}
+.card-title{
+    color:#FFFDD0;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 20px;
+}
+.menu-link{
+    color: #FFFDD0;
+    font-family: "Roboto";
+    font-size: 14px;
+    cursor: pointer;
+}
+.healthy-food-section {
+    background-color: #FFFDD0;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    color:  #7B3F00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #7B3F00 ;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.delivery-and-payment-section {
+    background-color:  #FFFDD0;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    color:  #7B3F00 ;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-description {
+    color:  #7B3F00 ;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.thanking-customers-section-heading {
+    color: #7B3F00;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.thanking-customers-section-description {
+    color: #7B3F00;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 270px;
+    margin-bottom: 20px;
+}
+
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+}
+
+.follow-us-section {
+    background-color:  #FFFDD0;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color:  #7B3F00;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.follow-us-icon-container {
+    background-color:  #7B3F00 ;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+/* .icon {
+     color: black; 
+    font-size: 35px;
+    margin-bottom: 2px;
+} */
+
+.footer-section {
+    background-color:  #7B3F00;
+}
+
+.footer-section-mail-id {
+    color:  #FFFDD0;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color:  #FFFDD0;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+#fab{
+    padding-top: 10px;
+    font-size: 35px;
+}
+
+.fab{
+    font-family: "Font Awesome 5 Brands";
+}
